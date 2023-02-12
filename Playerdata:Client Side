@@ -1,0 +1,2 @@
+local xPlayer = QBCore.Functions.GetPlayerData() <-- Client is automatically the source so no need to specify
+local citizenid = xPlayer.citizenid  <-- See here i do NOT have to put "PlayerData"
